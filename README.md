@@ -2,7 +2,7 @@
   Hello friends <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, welcome to my GitHub.
 </h1>
 <h3 align="center">
-  🔭 I’m work as a Full-Stack Software Engineer
+  🔭 I’m currently a Full-Stack Software Engineer
 </h3>
 
 <div align="center">
