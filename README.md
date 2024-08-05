@@ -7,8 +7,6 @@
 
 <div align="center">
   <a href="https://github.com/lyminhnghia"><img src="https://img.shields.io/badge/-lyminhnghia-12100E?style=flat&logo=Github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ly-minh-nghia/"><img src="https://img.shields.io/badge/-lyminhnghia-%23E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ly-minh-nghia/"><img src="https://img.shields.io/badge/-lyminhnghia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:lmn2461999@gmail.com"><img src="https://img.shields.io/badge/-lmn2461999@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=lyminhnghia&color=blueviolet&style=flat">
 </div>
